@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/my_home" android:icon="@drawable/ic_baseline_home_24"  android:iconTint="#0f0" android:title="Home"/>
+    <item android:id="@+id/flight" android:icon="@drawable/ic_baseline_flight_24" android:iconTint="#0631CD" android:title="Flight Booking"/>
+    <item android:id="@+id/train" android:icon="@drawable/ic_baseline_train_24" android:iconTint="#DA00EA" android:title="Train status"/>
+    <item android:id="@+id/hotel" android:icon="@drawable/ic_baseline_hotel_24" android:iconTint="#F7FF00" android:title="Hotel"/>
+    <item android:id="@+id/reward" android:icon="@drawable/ic_baseline_card_giftcard_24" android:iconTint="#F7FF00" android:title="Reward"/>
+    <item android:id="@+id/corona" android:icon="@drawable/ic_baseline_coronavirus_24" android:iconTint="#FF0059" android:title="Covid 19 UPDATES"/>
+    <item android:id="@+id/singout" android:icon="@drawable/ic_baseline_login_24" android:iconTint="#EA0909" android:title="Log Out"/>
+</menu>
